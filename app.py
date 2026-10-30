@@ -5,7 +5,7 @@ from simplex_solver import resolver_simplex_propio, resolver_pulp
 
 st.set_page_config(page_title="OptimiApp - Simplex Solver", layout="wide")
 
-st.title("Dashboard de MASTURBACION y SEXO ANAL Lineal")
+st.title("Dashbodard de MASTURBACION y SEXO ANAL Lineal")
 st.caption("Solucionador dinámico con comparación de algoritmos y módulo de escenarios")
 
 # --- BARRA LATERAL: Configuración ---
